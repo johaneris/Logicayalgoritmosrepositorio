@@ -24,7 +24,7 @@ void killKevin()
         cout << "Por que mrd no mastaste a Kevin?";
         break;
     default:
-        cout << "Ninguna opcion es incorrecta, mata a Kevin";
+        cout << "Ninguna opcion es correcta, mata a Kevin";
         exit(0);
         break;
     }

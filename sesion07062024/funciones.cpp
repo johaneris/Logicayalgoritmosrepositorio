@@ -67,6 +67,7 @@ void eliminar(int id){
 
 
 int menu(){
+    int op;
     cout << "Menu \n";
     cout << "1. Agregar \n";
     cout << "2. Editar \n";
