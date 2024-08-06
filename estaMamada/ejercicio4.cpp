@@ -13,7 +13,7 @@ int main() {
     }
 
     float promGeneral = sumaNotas / 10;
-    cout << "El promedio general de la sección es " << promGeneral<<endl;
+    cout << "El promedio general de la de lA DEL  de la sección es " << promGeneral<<endl;
 
     return 0;
 }

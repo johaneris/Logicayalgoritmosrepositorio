@@ -14,7 +14,7 @@ int main() {
     for (int i = 1; i <= n; i++) {
         suma += i;
     }
-   cout << "La suma de los números naturales desde 1 hasta " << n << " es: " << suma << std::endl;
+   cout << "La suma de los números naturales desde 1 hasta " << n << " es: " << suma << endl;
 
     return 0;
 }
