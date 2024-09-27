@@ -9,7 +9,7 @@ using namespace std;
 //VARIABLE GLOBAL
 int nums[1000];
 int pos = 0; //posicion del elemento en el arreglo
-int suma = 0
+int suma = 0;
 
 void agregarNum(int num){
     if(pos<MAX){
